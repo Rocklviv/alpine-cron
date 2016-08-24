@@ -1,0 +1,5 @@
+*/1  *  *  *  *  /bin/sh /etc/periodic/15min/update
+5  *  *  *  *  /bin/sh /etc/periodic/hourly/update
+0  0  *  *  *  /bin/sh /etc/periodic/daily/update
+0  0  *  *  6  /bin/sh /etc/periodic/weekly/update
+0  0  1  *  *  /bin/sh /etc/periodic/monthly/update

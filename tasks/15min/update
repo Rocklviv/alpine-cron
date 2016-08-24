@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "15min or less" >> /dev/stdout

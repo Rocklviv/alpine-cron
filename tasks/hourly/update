@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "Hourly" >> /dev/stdout
